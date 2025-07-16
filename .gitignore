@@ -1,0 +1,18 @@
+# Frontend (React)
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+frontend/.vscode/
+frontend/.idea/
+
+# Backend (Node)
+backend/node_modules/
+backend/.env
+backend/logs/
+
+# General
+.env
+*.log
+.DS_Store
+.idea/
+.vscode/
