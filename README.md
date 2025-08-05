@@ -64,7 +64,7 @@ Now the frontend runs at `http://localhost:5173`
 
 
 ##  Project Demonstration Video
-(https://youtube.com/unlisted-link)
+https://youtu.be/EwiwvXzhsZI
 
 
 License
